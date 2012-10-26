@@ -1,0 +1,1 @@
+This Repository exists to merge all relevant documents and data for the development of Wilssen (Wireless / Wind Logging System for Sourcing ENergy)
